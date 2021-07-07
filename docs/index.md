@@ -18,8 +18,8 @@ In this project we analyze the landscape of SDNS providers and their systems, an
 - PoPETS paper:
 ```
 @InProceedings{fainchtein-holes-2021,
-	author = {{Fainchtein, Rahel A.} and {Aviv, Adam J.} and {Sherr, Micah} and {Ribaudo, Stephen} and {Khullar, Armaan}},
-	title = {{Holes in the Geofence: Privacy Vulnerabilities in ``Smart" DNS Services}},
+	author = {"Fainchtein, Rahel A." and "Aviv, Adam J." and "Sherr, Micah" and "Ribaudo, Stephen" and "Khullar, Armaan"},
+	title = {"Holes in the Geofence: Privacy Vulnerabilities in ``Smart" DNS Services"},
 	year={2021},
 	address={Online},
 	pages={151--172},
