@@ -15,7 +15,7 @@ In this project we analyze the landscape of SDNS providers and their systems, an
 
 
 #### Citing this project:
-To cite this project please use the Bibtex citations below. These are also available in (add link here).
+To cite this project please use the Bibtex citations below. These are also available in [bibtex.bib](https://github.com/smartdnsstudy/projectPage/blob/main/citation.bib).
 - PoPETS paper:
 ```
 @InProceedings{fainchtein-holes-2021,
