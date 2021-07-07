@@ -33,6 +33,6 @@ To cite this project please use the Bibtex citations below. These are also avail
   author = {Rahel A. Fainchtein and Adam J. Aviv and Micah Sherr and Stephen Ribaudo and Armaan Khullar},
   howpublished = {\url{https://arxiv.org/abs/2012.07944}},
   year = "2020",
-  title = {{Holes in the Geofence: Privacy Vulnerabilities in ``Smart'' DNS Services (Extended Version)}},
+  title = {Holes in the Geofence: Privacy Vulnerabilities in ``Smart'' DNS Services (Extended Version)},
 }
 ```
