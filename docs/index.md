@@ -1,11 +1,12 @@
 ## Smart DNS (SDNS)
-=======
+
 
 ### Overview
 Many streaming content providers rely on IP-geolocation based access restrictions, or geofences, to prevent individuals outside a prespecified geographic region from accessing their offerings. Smart DNS(SDNS) services offer a previously unstudied means of circumventing geofences that is configured to be lightweight and thus to minimize its impact on users' quality of service (QoS). 
 In this project we analyze the landscape of SDNS providers and their systems, and identify a number of serious and widespread privacy vulnerabilities within them. 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eq8lhlOcwi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
